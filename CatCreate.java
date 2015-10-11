@@ -4,6 +4,6 @@ public class CatCreate {
 
 		puss.setAge(3);
 
-		System.out.println(puss.getAge());
+		System.out.println("The Cat is "+ puss.getAge()+ " years old");
 	}
 }
